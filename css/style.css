@@ -105,15 +105,3 @@ tr td{
     padding-top: 20px;
 
 }
-
-
-body {
-    font-size: 16px;
-  }
-  
-  /* Para telas menores que 600px */
-  @media (max-width: 600px) {
-    body {
-      font-size: 14px;
-    }
-  }
